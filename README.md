@@ -1,2 +1,14 @@
 # docker-rabbit-mq
-Inicialização rapida do rabbitmq com docker
+Inicialização fácil do rabbitmq com docker
+
+### Inicializando
+```shell
+    docker-compose up -d
+
+```
+
+### Configurando
+```
+    # ALTERE A SENHA EM envs/rabbitmq.env
+
+```
